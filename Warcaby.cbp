@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Warcaby" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Warcaby" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Warcaby" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="Bicia.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="bicia.h" />
+		<Unit filename="computer_player.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="computer_player.h" />
+		<Unit filename="game.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="game.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="menu_lib.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="menu_lib.h" />
+		<Unit filename="new_game.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="new_game.h" />
+		<Unit filename="struct_pionek.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="struct_pionek.h" />
+		<Unit filename="table_open.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="table_open.h" />
+		<Unit filename="zapis.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="zapis.h" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

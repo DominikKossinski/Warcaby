@@ -1,0 +1,13 @@
+Zasady:
+-Pionek porusza sie o jedno pole do przodu po skosie (o ile jest wolne), 
+-Damka porusza sie o dowolona ilosc pol (o ile pomiedzy nia a wybranym polem
+   nie ma zadnego pionka lub innej damki oraz wybrane pole jest wolne),
+-Pionek bije w kazda strone :
+        -Do gory w lewo lub w prawo,
+        -Na dol w lewo lub w prawo,
+-Damka bije podobnie jak pionek, ale moze poruszyc sie o dowolna ilosc pol,
+-Pionek staje sie damka po dojsciu na ostatnie pole po stronie przeciwnika
+(nawet gdy ma kolejne bice, ale wtedy nastepuje zmiana gracza),
+-Bicie jest obowiazkowe, ale zawodnik nie musi wykonywac najlepszego bicie,
+-Gra konczy sie jesli jeden z graczy nie ma pionkow albo nie ma ruchu,
+-Jesli kazdy grzczy wykona 15 ruhow damka bez bicia gra konczy sie remisem. 

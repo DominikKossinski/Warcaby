@@ -1,0 +1,5 @@
+Gra na potrzeby projektu zaliczeniowego
+Przedmiot : Programowanie Niskopoziomowe
+Tworca: Dominik Kossinski
+Grupa : I4
+Data : 7.04.2017

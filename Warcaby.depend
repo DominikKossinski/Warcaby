@@ -1,0 +1,211 @@
+# depslib dependency file v1.0
+1491459210 source:/home/dominik/Desktop/Warcaby/main.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	<allegro_font.h>
+	<allegro_ttf.h>
+	<allegro_primitives.h>
+	<allegro_image.h>
+	<string.h>
+	"menu_lib.h"
+	"table_open.h"
+
+1491317055 /home/dominik/Desktop/Warcaby/menu_lib.h
+
+1491381269 /home/dominik/Desktop/Warcaby/new_game.h
+
+1489765435 /home/dominik/Desktop/Warcaby/table_open.h
+
+1491584360 source:/home/dominik/Desktop/Warcaby/new_game.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	<allegro_font.h>
+	<allegro_ttf.h>
+	<string.h>
+	"game.h"
+
+1489859572 source:/home/dominik/Desktop/Warcaby/table_open.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	<allegro_font.h>
+	<allegro_ttf.h>
+	<string.h>
+	<allegro_primitives.h>
+
+1491584042 source:/home/dominik/Desktop/Warcaby/game.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	<allegro_font.h>
+	<allegro_ttf.h>
+	<string.h>
+	<allegro_primitives.h>
+	<allegro_image.h>
+	"struct_pionek.h"
+	"computer_player.h"
+	"zapis.h"
+
+1491421702 /home/dominik/Desktop/Warcaby/game.h
+
+1491381882 source:/home/dominik/Desktop/Warcaby/struct_pionek.c
+	"struct_pionek.h"
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+
+1491381925 /home/dominik/Desktop/Warcaby/struct_pionek.h
+
+1491337190 source:/home/dominik/Desktop/Warcaby/Bicia.c
+	"struct_pionek.h"
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+
+1491460497 source:/home/dominik/Desktop/Warcaby/computer_player.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	<allegro_font.h>
+	<allegro_ttf.h>
+	<string.h>
+	<allegro_primitives.h>
+	<allegro_image.h>
+	"struct_pionek.h"
+	"game.h"
+
+1491419315 /home/dominik/Desktop/Warcaby/computer_player.h
+
+1491492931 source:/home/dominik/Desktop/Warcaby/zapis.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	<allegro_font.h>
+	<allegro_ttf.h>
+	<string.h>
+	<allegro_primitives.h>
+	<allegro_image.h>
+	<time.h>
+	"struct_pionek.h"
+
+1491300062 /home/dominik/Desktop/Warcaby/zapis.h
+
+1491584042 source:/home/dominik/Desktop/Warcaby/menu_lib.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	<allegro_font.h>
+	<allegro_ttf.h>
+	<allegro_primitives.h>
+	<allegro_image.h>
+	<string.h>
+	"new_game.h"
+	"zapis.h"
+
+1491337190 source:/home/dominik/Pulpit/Warcaby/Bicia.c
+	"struct_pionek.h"
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+
+1491381925 /home/dominik/Pulpit/Warcaby/struct_pionek.h
+
+1491460497 source:/home/dominik/Pulpit/Warcaby/computer_player.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	<allegro_font.h>
+	<allegro_ttf.h>
+	<string.h>
+	<allegro_primitives.h>
+	<allegro_image.h>
+	"struct_pionek.h"
+	"game.h"
+
+1491421702 /home/dominik/Pulpit/Warcaby/game.h
+
+1491584042 source:/home/dominik/Pulpit/Warcaby/game.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	<allegro_font.h>
+	<allegro_ttf.h>
+	<string.h>
+	<allegro_primitives.h>
+	<allegro_image.h>
+	"struct_pionek.h"
+	"computer_player.h"
+	"zapis.h"
+
+1491419315 /home/dominik/Pulpit/Warcaby/computer_player.h
+
+1491300062 /home/dominik/Pulpit/Warcaby/zapis.h
+
+1491459210 source:/home/dominik/Pulpit/Warcaby/main.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	<allegro_font.h>
+	<allegro_ttf.h>
+	<allegro_primitives.h>
+	<allegro_image.h>
+	<string.h>
+	"menu_lib.h"
+	"table_open.h"
+
+1491317055 /home/dominik/Pulpit/Warcaby/menu_lib.h
+
+1489765435 /home/dominik/Pulpit/Warcaby/table_open.h
+
+1491584042 source:/home/dominik/Pulpit/Warcaby/menu_lib.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	<allegro_font.h>
+	<allegro_ttf.h>
+	<allegro_primitives.h>
+	<allegro_image.h>
+	<string.h>
+	"new_game.h"
+	"zapis.h"
+
+1491381269 /home/dominik/Pulpit/Warcaby/new_game.h
+
+1492680065 source:/home/dominik/Pulpit/Warcaby/new_game.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	<allegro_font.h>
+	<allegro_ttf.h>
+	<string.h>
+	"game.h"
+
+1491381882 source:/home/dominik/Pulpit/Warcaby/struct_pionek.c
+	"struct_pionek.h"
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+
+1492680336 source:/home/dominik/Pulpit/Warcaby/table_open.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	<allegro_font.h>
+	<allegro_ttf.h>
+	<string.h>
+	<allegro_primitives.h>
+
+1491492931 source:/home/dominik/Pulpit/Warcaby/zapis.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	<allegro_font.h>
+	<allegro_ttf.h>
+	<string.h>
+	<allegro_primitives.h>
+	<allegro_image.h>
+	<time.h>
+	"struct_pionek.h"
+
